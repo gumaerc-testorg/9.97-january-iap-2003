@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 851bcf1d-deaf-7759-8c35-49b90ff38ad8
 resourcetype: Document
 title: Key Concepts, Questions and Terms
 uid: d837e1c9-434d-eaa6-ddbf-f8b796ce23e5

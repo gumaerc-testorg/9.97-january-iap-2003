@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 851bcf1d-deaf-7759-8c35-49b90ff38ad8
 resourcetype: Document
 title: Sheep Brain Dissection Preparation
 uid: c571ab02-2c3c-b473-be78-609d5d9e3252

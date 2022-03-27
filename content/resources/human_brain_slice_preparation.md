@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 851bcf1d-deaf-7759-8c35-49b90ff38ad8
 resourcetype: Document
 title: Human Brain Slice Preparation
 uid: 5934d8e5-d5fd-0048-5384-daaf2ee39a52
