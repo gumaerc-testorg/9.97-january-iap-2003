@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout intended to prepare students to dissect a sheep brain.
-file: /media/courses/9-97-introduction-to-neuroanatomy-january-iap-2003/c571ab022c3cb473be78609d5d9e3252_sheep_brain_dissection_preparation.pdf
+file: /courses/9-97-introduction-to-neuroanatomy-january-iap-2003/c571ab022c3cb473be78609d5d9e3252_sheep_brain_dissection_preparation.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: Sheep Brain Dissection Preparation
 uid: c571ab02-2c3c-b473-be78-609d5d9e3252
 ---
+Handout intended to prepare students to dissect a sheep brain.
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a neuroanatomy quiz.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
