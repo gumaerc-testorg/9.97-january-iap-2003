@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a neuroanatomy quiz.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: ffe583b3-27b0-934e-8e02-5fae53d7b63c
 ---

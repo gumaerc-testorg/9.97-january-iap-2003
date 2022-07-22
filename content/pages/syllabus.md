@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on the purpose of the course,
+  meeting times, and requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2fd087a4-533f-5c67-83c0-97d09d390517
 ---
@@ -32,7 +36,7 @@ Requirements
 
 You will need not only to attend class and lab, but also to do a bit of homework.
 
-We have provided you with a list of [useful web sites]({{< baseurl >}}/pages/related-resources), and will also give you handouts to review. 
+We have provided you with a list of {{% resource_link 85554383-9cee-f385-25a9-1133452d6938 "useful web sites" %}}, and will also give you handouts to review. 
 
 We expect that you will have visited these web sites and read through the handouts before showing up at your section.
 
