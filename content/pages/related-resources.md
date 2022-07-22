@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to related resources on cognition, neuroscience,
+  and anatomy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 85554383-9cee-f385-25a9-1133452d6938
 ---
