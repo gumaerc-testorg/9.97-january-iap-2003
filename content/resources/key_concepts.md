@@ -2,6 +2,7 @@
 content_type: resource
 description: A list of key concepts, questions, and terms on neuroanatomy.
 file: /courses/9-97-introduction-to-neuroanatomy-january-iap-2003/d837e1c9434deaa6ddbff8b796ce23e5_key_concepts.pdf
+file_size: 89836
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
